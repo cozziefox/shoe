@@ -1,0 +1,3 @@
+** HOW TO INSTALL MODS **
+
+Drop the mods folder into your .minecraft folder AFTER installing forge. If your Minecraft is already open restart it.
